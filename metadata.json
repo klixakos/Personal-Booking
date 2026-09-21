@@ -1,0 +1,6 @@
+{
+  "name": "Personal Trainer & Coaching Platform",
+  "description": "Premium personal trainer website with online session booking and secure coach dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
